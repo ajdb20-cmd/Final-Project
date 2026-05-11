@@ -13,7 +13,8 @@ but in all of this I was able to take each problem step by step and look at the 
 then look for a solution if I didint know how to handle it, but I started to really understand the power of python in this project, 
 with its list specificaly, There was a lot that I learned about python and the ways you can write things, I learned a lot about 
 how I can simplify code and make it more efficient by changing the arguments and reminding my self in notes and in the code what things did
-so that I didnt have to keep going over and over what I did in the past.
+so that I didnt have to keep going over and over what I did in the past. It was even hard just to push the code to git hub, turns out you cant send 
+your google calendar credentials throught git hub, so I had to use the .gitignore command to avoid sending those.
 
 4. I think that with this project I aimed to create something simple, but I didnt understand at the time how much more dealing with API's adds
 with translating and authenticating etc, but luckily google makes it not to hard to be able to do so. I had many conversations with claude on 
