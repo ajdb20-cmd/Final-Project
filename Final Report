@@ -1,9 +1,11 @@
 Final Report:
 1. I did this project by myslef, did all classes and methods and UI set up and more...
+
 2. My original plan was to use a lot more libraries to handel more things, but I ended up pivoting in the final
 because claude help me to shorten the list down to just a handful, and I was able to understand more of what I could do 
 with just tkinter from a tutorial. I then went off of that to add a events tab, then made the worked on the authentication
 and the handeling of the GoogleCalendarService Class and went on to finish and update the rest of the project acordingly.
+
 3. I had a lot of challenges in this project, there was a much bigger knowledge gap than I expected, I didint know how to 
 authenticate and how it is used and applied, I didint even know how to use the google API imports, I didint understand
 everything tkinter could do and how I could use it, lots of file problems, code problems with inefficencies, bugs from the google calendar
@@ -12,7 +14,8 @@ then look for a solution if I didint know how to handle it, but I started to rea
 with its list specificaly, There was a lot that I learned about python and the ways you can write things, I learned a lot about 
 how I can simplify code and make it more efficient by changing the arguments and reminding my self in notes and in the code what things did
 so that I didnt have to keep going over and over what I did in the past.
+
 4. I think that with this project I aimed to create something simple, but I didnt understand at the time how much more dealing with API's adds
 with translating and authenticating etc, but luckily google makes it not to hard to be able to do so. I had many conversations with claude on 
 how or why things werent working, and it helped me to understand things from the ground up. I was also able to learn how API request move throught code,
-In all I enjoyed working on this project and I learned so so so much.
+In all I enjoyed working on this project and I learned so so so much
